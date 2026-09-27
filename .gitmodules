@@ -7,6 +7,7 @@
 [submodule "rapidjson"]
 	path = rapidjson
 	url = ../../Tencent/rapidjson
+	branch = master
 [submodule "jwt-cpp"]
 	path = jwt-cpp
 	url = ../../cpp-port/jwt-cpp
