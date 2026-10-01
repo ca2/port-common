@@ -3,7 +3,7 @@
 #define INT_EQUALITY_DEBUG_C_H
 
 
-#include "int_equality_debug_t.h"
+#include "debug/int_equality_t.h"
 
 
 #define INT_EQUALITY_DEBUG_CALL(name, size) \
