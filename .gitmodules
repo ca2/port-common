@@ -16,3 +16,6 @@
 	path = picojson
 	url = ../../cpp-port/picojson
 	branch = main
+[submodule "mbedtls"]
+	path = mbedtls
+	url = git@github.com:cpp-port/mbedtls.git
