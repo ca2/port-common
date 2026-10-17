@@ -18,4 +18,4 @@
 	branch = main
 [submodule "mbedtls"]
 	path = mbedtls
-	url = git@github.com:cpp-port/mbedtls.git
+	url = ../../cpp-port/mbedtls
