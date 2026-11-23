@@ -19,3 +19,7 @@
 [submodule "mbedtls"]
 	path = mbedtls
 	url = ../../cpp-port/mbedtls
+[submodule "debug"]
+	path = debug
+	url = ../../cpp-port/debug
+	branch = main
