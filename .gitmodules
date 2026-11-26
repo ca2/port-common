@@ -16,9 +16,6 @@
 	path = picojson
 	url = ../../cpp-port/picojson
 	branch = main
-[submodule "mbedtls"]
-	path = mbedtls
-	url = ../../cpp-port/mbedtls
 [submodule "debug"]
 	path = debug
 	url = ../../cpp-port/debug
